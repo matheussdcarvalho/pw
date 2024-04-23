@@ -1,0 +1,44 @@
+body {
+    background-color: #f8f9fa;
+    /* Light gray background */
+}
+
+.navbar {
+    background-color: #FFA500;
+    /* Orange navbar */
+}
+
+.container {
+    margin-top: 20px;
+    /* Add space between navbar and content */
+}
+
+h1 {
+    color: #333;
+    /* Dark gray heading */
+}
+
+.recipe-image {
+    width: 100%;
+    /* Responsive image width */
+    max-width: 400px;
+    /* Limit image width */
+    margin-bottom: 20px;
+    /* Add space below image */
+}
+
+.btn-cta {
+    background-color: #FFA500;
+    /* Orange button */
+    color: #fff;
+    /* White text */
+    border-color: #FFA500;
+    /* Orange border */
+}
+
+.btn-cta:hover {
+    background-color: #ff8c00;
+    /* Darker orange on hover */
+    border-color: #ff8c00;
+    /* Darker orange border on hover */
+}
